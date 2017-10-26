@@ -12,4 +12,5 @@ Cargo is Rust’s build system and package manager, and Rustaceans use Cargo to 
 # Creating a Project with Cargo
 
 `$ cargo new hello_cargo --bin
+
 $ cd hello_cargo`
