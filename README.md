@@ -13,3 +13,11 @@ Cargo is Rust’s build system and package manager, and Rustaceans use Cargo to 
 
 `$ cargo new hello_cargo --bin`
 `$ cd hello_cargo`
+
+# Variáveis e Mutabilidade
+
+Por padrão variáveis em Rust são imutáveis.
+
+Quando uma variável é imutável, assim que um valor passa a estar vinculado ao seu nome é impossível alterá-lo. Para ilustrar, vamos gerar um novo projeto chamado variaveis [sic] no seu diretório projetos, usando o comando cargo new --bin variaveis.
+
+Em seguida, no diretório variaveis que acabou de ser criado, abra src/main.rs 
