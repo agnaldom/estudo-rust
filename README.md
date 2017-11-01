@@ -27,7 +27,6 @@ https://www.udemy.com/rust-lang/
 # The Rust Programming Language 
 
 * Introduction
-  * Course Introduction
   * Installing and Configuring Rust
   * Hello, Rust!
   * Introducing the Cargo Package Manager

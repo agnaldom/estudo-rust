@@ -1,4 +1,5 @@
-# Intrução a Linguagem Rust
+# Introdução à Linguagem Rust
 
 * Instalando e configurando Rust
-[Documentacao Oficial](https://www.rust-lang.org/pt-BR/install.html)
+
+[Documentação Oficial](https://www.rust-lang.org/pt-BR/install.html)
